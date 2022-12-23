@@ -8,7 +8,7 @@ namespace App\Http\Controllers;
  * @author kihara Takahiro
  * @copyright 2018 Kihara. All Rights Reserved
  *
- * @category　DBアクセス用のクラス
+ * @category　DBアクセス用のクラス test
  */
 class DaoController extends Controller
 {
